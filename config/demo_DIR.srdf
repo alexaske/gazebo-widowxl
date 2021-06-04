@@ -29,8 +29,8 @@
         <joint name="joint_4" value="1.745" />
         <joint name="joint_5" value="0" />
     </group_state>
-    <group_state name="place" group="widowx">
-        <joint name="joint_1" value="3.1415" />
+    <group_state name="place1" group="widowx">
+        <joint name="joint_1" value="2.7249" />
         <joint name="joint_2" value="-0.4253" />
         <joint name="joint_3" value="-0.0955" />
         <joint name="joint_4" value="1.2051" />
@@ -56,6 +56,34 @@
         <joint name="joint_2" value="-0.6683" />
         <joint name="joint_3" value="-0.0781" />
         <joint name="joint_4" value="1.745" />
+        <joint name="joint_5" value="0" />
+    </group_state>
+    <group_state name="place2" group="widowx">
+        <joint name="joint_1" value="2.95" />
+        <joint name="joint_2" value="-0.4253" />
+        <joint name="joint_3" value="-0.0955" />
+        <joint name="joint_4" value="1.2051" />
+        <joint name="joint_5" value="0" />
+    </group_state>
+    <group_state name="place 3" group="widowx">
+        <joint name="joint_1" value="3.1415" />
+        <joint name="joint_2" value="-0.4253" />
+        <joint name="joint_3" value="-0.0955" />
+        <joint name="joint_4" value="1.2051" />
+        <joint name="joint_5" value="0" />
+    </group_state>
+    <group_state name="place4" group="widowx">
+        <joint name="joint_1" value="-2.95" />
+        <joint name="joint_2" value="-0.4253" />
+        <joint name="joint_3" value="-0.0955" />
+        <joint name="joint_4" value="1.2051" />
+        <joint name="joint_5" value="0" />
+    </group_state>
+    <group_state name="place5" group="widowx">
+        <joint name="joint_1" value="-2.7249" />
+        <joint name="joint_2" value="-0.4253" />
+        <joint name="joint_3" value="-0.0955" />
+        <joint name="joint_4" value="1.2051" />
         <joint name="joint_5" value="0" />
     </group_state>
     <!--END EFFECTOR: Purpose: Represent information about an end effector.-->
