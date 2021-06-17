@@ -1,5 +1,5 @@
 controller_list:
-  - name: /demo_DIR/joint_trajectory_controller
+  - name: /talos_pkg/joint_trajectory_controller
     action_ns: "follow_joint_trajectory"
     type: FollowJointTrajectory
     joints:
